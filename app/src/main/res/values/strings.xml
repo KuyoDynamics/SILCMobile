@@ -1,3 +1,39 @@
 <resources>
     <string name="app_name">SILC</string>
+    <string name="silc_long_description">Savings and Internal Lending Communities</string>
+    <string name="silc_theme">A Basis for Integral Human Development(IHD)</string>
+    <string name="silc_motto">Giving Hope to a World of Need</string>
+    <string name="silc_source_website">https://www.microfinancegateway.org</string>
+    <string name="silc_asca">Accumulating Savings and Credit Association</string>
+    <string name="silc_bds">Business Development Services</string>
+    <string name="silc_ciat">International Center for Tropical Agriculture</string>
+    <string name="silc_cpd">Centre for Policy Dialogue</string>
+    <string name="silc_dfid">Department for International Development</string>
+    <string name="silc_ffs">Farmer Field School</string>
+    <string name="silc_ihd">Integral Human Development</string>
+    <string name="silc_isl"> Internal Savings and Lendings</string>
+    <string name="silc_lc"> Learning Conversations</string>
+    <string name="silc_mfi">Microfinance Institution</string>
+    <string name="silc_pmg">Producer Marketing Group</string>
+    <string name="silc_rosca">Rotating Savings and Credit Association</string>
+    <string name="silc_seep">Small Enterprise &amp; Education Promotion Network</string>
+    <string name="silc_shg">Self Help Group</string>
+    <string name="silc_vsl">Village Savings and Lendings</string>
+    <string name="silc_savings">Savings</string>
+    <string name="silc_loans">Loans</string>
+    <string name="silc_transaction_history">Transaction History</string>
+    <string name="silc_approvals">Approvals</string>
+    <string name="silc_approve">Approve</string>
+    <string name="silc_rejects">Rejects</string>
+    <string name="silc_rejected">Rejected</string>
+    <string name="silc_approved">Approved</string>
+    <string name="silc_total">Total</string>
+    <string name="silc_total_savings">Total Savings</string>
+    <string name="silc_social_fund">Social Fund</string>
+    <string name="silc_total_social_fund">Total Social Fund</string>
+    <string name="silc_debts">Debts</string>
+    <string name="silc_total_debts">Total Debts</string>
+    <string name="silc_share_out">Share Out</string>
+    <string name="silc_total_share_out">Total Share Out</string>
+    
 </resources>
