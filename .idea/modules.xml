@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SILC.iml" filepath="$PROJECT_DIR$/SILC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SILCMobile.iml" filepath="$PROJECT_DIR$/SILCMobile.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

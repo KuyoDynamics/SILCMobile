@@ -35,5 +35,8 @@
     <string name="silc_total_debts">Total Debts</string>
     <string name="silc_share_out">Share Out</string>
     <string name="silc_total_share_out">Total Share Out</string>
+    <string name="silc_dashboard">Dashboard</string>
+    <string name="silc_group_chat">Group Chats</string>
+    <string name="silc_groups">Groups</string>
     
 </resources>
