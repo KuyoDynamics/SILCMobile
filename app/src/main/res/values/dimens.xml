@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="art_detail_button_width">56dp</dimen>
+    <dimen name="art_detail_button_height">72dp</dimen>
+    <dimen name="art_detail_metadata_margin">16dp</dimen>
+    <dimen name="art_detail_metadata_margin_bottom">20dp</dimen>
+    <dimen name="art_detail_title_text_size">28sp</dimen>
+    <dimen name="art_detail_title_bottom_padding">16sp</dimen>
+    <dimen name="art_detail_title_byline_margin">-16sp</dimen>
+    <dimen name="art_detail_byline_text_size">22sp</dimen>
+    <dimen name="art_detail_attribution_title_margin">-12sp</dimen>
+    <dimen name="art_detail_attribution_text_size">14sp</dimen>
+
+    <dimen name="intro_activate_button_size">100dp</dimen>
+
+    <dimen name="keyline_2">72dp</dimen>
+    <dimen name="keyline_2_minus_16dp">56dp</dimen>
+
+    <dimen name="tutorial_content_margin">32dp</dimen>
+
+    <dimen name="settings_choose_source_item_width">200dp</dimen>
+    <dimen name="settings_choose_source_item_image_size">100dp</dimen>
+    <dimen name="settings_choose_source_item_estimated_height">220dp</dimen>
+    <dimen name="settings_choose_source_min_side_padding">64dp</dimen>
+    <dimen name="settings_choose_source_settings_button_animate_distance">24dp</dimen>
+    <dimen name="settings_text_size_large">20sp</dimen>
+    <dimen name="settings_text_size_normal">16sp</dimen>
+
+    <dimen name="widget_small_height_breakpoint">110dp</dimen>
+    <dimen name="widget_min_size">48dp</dimen>
+    <dimen name="widget_min_height">110dp</dimen>
+    <dimen name="widget_min_width">180dp</dimen>
+    <dimen name="widget_padding">16dp</dimen>
+    <dimen name="widget_scrim_height">160dp</dimen>
+
+    <dimen name="settings_advanced_checkbox_margin_start">0dp</dimen>
+    <integer name="settings_advanced_checkbox_column">0</integer>
+    <integer name="settings_advanced_checkbox_column_span">3</integer>
+</resources>
