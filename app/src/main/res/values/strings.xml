@@ -40,5 +40,9 @@
     <string name="silc_groups">Groups</string>
     <string name="action_settings">Settings</string>
     <string name="search_title">search</string>
+    <string name="main_dashboard_label">DASHBOARD</string>
+    <string name="groups_dashboard_label">GROUPS</string>
+    <string name="loans_dashboard_label">LOANS</string>
+    <string name="savings_dashboard_label">SAVINGS</string>
 
 </resources>

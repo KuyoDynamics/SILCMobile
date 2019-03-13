@@ -34,28 +34,28 @@
             style="@style/CustomTabLayout">
 
             <android.support.design.widget.TabItem
-                android:id="@+id/tabItemGroupChats"
+                android:id="@+id/tabItemGroupsDashboard"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/silc_groups" />
+                android:text="@string/groups_dashboard_label" />
 
             <android.support.design.widget.TabItem
                 android:id="@+id/tabItemMainDashboard"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/silc_dashboard" />
+                android:text="@string/main_dashboard_label" />
 
             <android.support.design.widget.TabItem
-                android:id="@+id/tabItemMyLoans"
+                android:id="@+id/tabItemLoansDashboard"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/silc_loans" />
+                android:text="@string/loans_dashboard_label" />
 
             <android.support.design.widget.TabItem
-                android:id="@+id/tabItemMySavings"
+                android:id="@+id/tabItemSavingsDashboard"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/silc_savings" />
+                android:text="@string/savings_dashboard_label" />
 
         </android.support.design.widget.TabLayout>
 
